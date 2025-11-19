@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "wanderly",
-    "slug": "wanderly",
+    "slug": "wanderly-front",
     "scheme": "wanderly",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -43,8 +43,9 @@
     ],
     "extra": {
       "eas": {
-        "projectId": "e7a21459-8eae-4cf6-8020-fb68bd2b2345"
+        "projectId": "5267337f-ddfd-437a-ab09-e3a4b073eb27"
       }
-    }
+    },
+    "owner": "jrth"
   }
 }
